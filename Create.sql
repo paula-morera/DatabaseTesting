@@ -81,7 +81,6 @@ INSERT INTO Children (idChild, idEmployee, fullName, birthDate, gender) VALUES (
 INSERT INTO Children (idChild, idEmployee, fullName, birthDate, gender) VALUES ('4', '74', 'Goten', '2016-07-28', 'Male');
 INSERT INTO Children (idChild, idEmployee, fullName, birthDate, gender) VALUES ('5', '92', 'Maron', '2017-10-01', 'Female');
 
-Select * From Employee;
 
 select * from Employee e
 inner join Institution i
